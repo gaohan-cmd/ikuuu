@@ -10,3 +10,6 @@ ikuuu每日签到
   4、环境变量-》新建变量（新建三个变量，名称为：EMAIL、PASSWD、SCKEY，对应分别为邮箱、密码、server酱密钥）
   
   5、定时任务-》执行（查看日志是否成功）
+# 最新域名
+如果登录失败，main.py更新最新域名即可
+ [iKuuuVPN最新域名](https://ikuuu.club/)
